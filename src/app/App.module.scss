@@ -1,0 +1,30 @@
+.container {
+  padding: 32px;
+}
+
+.header_wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 32px;
+}
+
+.buttons_wrapper{
+  display: flex;
+  column-gap: 16px;
+}
+
+.plot_wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.text_error{
+  margin-top: 24px;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.text_error_contrast{
+  font-weight: 700;
+}
